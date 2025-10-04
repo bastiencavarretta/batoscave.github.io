@@ -10,6 +10,6 @@ end: 2025
 # location: "City, Country"
 ---
 
-Responsable du cours : <a href="https://www.ceremade.dauphine.fr/~bonnet/">Guillaume Bonnet</a>.  
+Responsable du cours : <a href="https://www.ceremade.dauphine.fr/~bonnet/">Guillaume Bonnet</a>.  Ceci est du test
 
 ---
