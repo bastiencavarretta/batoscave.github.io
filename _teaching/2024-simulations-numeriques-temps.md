@@ -4,7 +4,8 @@ collection: teaching
 type: "TD/TP - M1 Maths"
 permalink: /teaching/2024-simulations-numeriques-temps
 venue: "Université Paris Dauphine-PSL"
-dates: 2024-09-01
+start: 2024
+end: 2025
 location: #"City, Country"
 
 ---
