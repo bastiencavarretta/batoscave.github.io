@@ -4,6 +4,7 @@ collection: teaching
 type: "TD/TP - L3 Maths"
 permalink: /teaching/2024-calcul-diff-optim-num
 venue: "Universite Paris Dauphine-PSL"
+date: 2026-01-01
 start: 2024
 end: 2025
 # location: "City, Country"
