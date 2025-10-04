@@ -5,16 +5,8 @@ type: "TD/TP - L3 Maths"
 permalink: /teaching/2024-calcul-diff-optim-num
 venue: "Universite Paris Dauphine-PSL"
 date: 2024-09-01
+period: "2024-2026"
 # location: "City, Country"
 ---
 
-Responsable de 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Responsable du cours : <a href="https://www.ceremade.dauphine.fr/~bonnet/">Guillaume Bonnet</a>.  
