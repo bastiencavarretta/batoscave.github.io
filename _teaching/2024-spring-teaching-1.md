@@ -11,7 +11,7 @@ location: #"City, Country"
 
 
 <a href="/files/teaching/2025-03-MNPDT_TP1_solution.ipynb">TP</a>
-
-
+<a href="files/teaching/2025-03-MNPDT_TP2.ipynb">TP</a>
+<a href="files/teaching/2025-03-MNPDT_TP3_solution.ipynb">TP</a>
 ---
 
