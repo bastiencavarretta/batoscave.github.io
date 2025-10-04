@@ -10,7 +10,7 @@ location: #"City, Country"
 ---
 
 
-<!-- <a href="https://www.lamsade.dauphine.fr/">LAMSADE</a> -->
+<a href="https://www.lamsade.dauphine.fr/">LAMSADE</a>
 hey
 
 
