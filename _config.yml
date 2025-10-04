@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Bastien Cavarretta"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in" # <a href="https://www.lamsade.dauphine.fr/">LAMSADE</a>, Université Paris Dauphine-PSL"
+  bio              : "PhD student in <a href="https://www.lamsade.dauphine.fr/">LAMSADE</a>, Université Paris Dauphine-PSL"
   location         : "Paris, France"
-  employer         : "Dauphine"
+  employer         : #"Dauphine"
   uri              : # URL
   email            : "bastien.cavarretta@dauphine.psl.eu" 
 
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/bastiencavarretta"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
