@@ -4,7 +4,7 @@ collection: teaching
 type: "TD/TP - M1 Maths"
 permalink: /teaching/2024-methodes-numeriques-temps
 venue: "Université Paris Dauphine-PSL"
-date: 2024-2025
+date: 2024-01-01
 location: #"City, Country"
 
 ---
