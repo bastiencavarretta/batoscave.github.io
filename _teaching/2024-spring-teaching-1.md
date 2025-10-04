@@ -10,9 +10,7 @@ location: #"City, Country"
 ---
 
 
-<a href="https://www.lamsade.dauphine.fr/">LAMSADE</a>
-hey
-
+<a href="/files/teaching/2025-03-MNPDT_TP1_solution.ipynb">TP</a>
 
 
 ---
