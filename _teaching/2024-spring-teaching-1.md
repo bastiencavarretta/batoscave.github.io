@@ -10,8 +10,12 @@ location: #"City, Country"
 ---
 
 
-<a href="/files/teaching/2025-03-MNPDT_TP1_solution.ipynb">TP</a>
-<a href="files/teaching/2025-03-MNPDT_TP2.ipynb">TP</a>
-<a href="files/teaching/2025-03-MNPDT_TP3_solution.ipynb">TP</a>
+Solution TP1 (poly chap. 2) : <a href="/files/teaching/2025-03-MNPDT_TP1_solution.ipynb">CorrectionIPYNB</a>
+
+TP2 sur la backpropagation : <a href="files/teaching/2025-03-MNPDT_TP2.ipynb">TP2Enonce</a>
+
+
+Solution TP3 <a href="files/teaching/2025-03-MNPDT_TP3_solution.ipynb">TP3correctionIPYNB</a>
+
 ---
 
