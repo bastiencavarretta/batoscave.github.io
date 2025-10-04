@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Bastien Cavarretta"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in <a href="https://www.lamsade.dauphine.fr/">LAMSADE</a>,
+  bio              : "PhD student in" # <a href="https://www.lamsade.dauphine.fr/">LAMSADE</a>,
  Université Paris Dauphine-PSL"
   location         : "Paris, France"
   employer         : "Dauphine"
